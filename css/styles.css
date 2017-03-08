@@ -5,6 +5,14 @@ body {
   color: #F8F8F2;
 }
 
+section {
+  margin: 13rem;
+}
+
+.project {
+  margin: 10rem;
+}
+
 .about-image {
   margin: 10px 0;
   width: 15rem;
